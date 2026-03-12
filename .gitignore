@@ -5,6 +5,11 @@ __pycache__/
 
 # C extensions
 *.so
+settings
+sign 
+sign /
+
+.sign/
 
 # Distribution / packaging
 .Python
